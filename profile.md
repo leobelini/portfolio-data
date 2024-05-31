@@ -1,0 +1,1 @@
+Meu nome é **Leonardo Belini**, sou **Desenvolvedor Full Stack**, atuando como desenvolvedor desde 2012. Já trabalhei em empresas como [**ITeam**](https://www.iteam.inf.br/), [**Sodré**](https://www.sodretox.com.br/), [**Roberty**](https://www.roberty.app/) e atualmente estou na [**Globalsys**](https://globalsys.com.br/) como outsourcing.
